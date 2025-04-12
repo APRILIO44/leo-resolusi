@@ -1,5 +1,7 @@
 RENCANA KONTEN LEO
 
 -javascript
+*es6
+*framework javascript
 -interview
 -vlogs
